@@ -17,3 +17,6 @@ Research assistant(RA) in UGOD at the HKUST(GZ), 2025-2026
 
 #### Research Interests
 Spatial analysis, GeoAI, Urban morphology
+
+#### The lover
+♥♥♥Weiqing Xu♥♥♥
