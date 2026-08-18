@@ -873,7 +873,7 @@ h2 em {
 
 .prototype-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
 
@@ -1067,27 +1067,6 @@ h2 em {
 .word-stack span:nth-child(2) {
   color: var(--mint);
   transform: translateX(10px);
-}
-
-.fold i {
-  position: absolute;
-  width: 118px;
-  height: 118px;
-  clip-path: polygon(0 0, 100% 0, 0 100%);
-  background: linear-gradient(135deg, rgba(255, 191, 105, 0.9), rgba(255, 126, 103, 0.3));
-  transform: rotate(45deg) translate(-5px, -5px);
-}
-
-.fold i:nth-child(2) {
-  background: linear-gradient(135deg, rgba(97, 217, 208, 0.75), rgba(16, 63, 80, 0.2));
-  transform: rotate(225deg) translate(-36px, -36px);
-}
-
-.fold i:nth-child(3) {
-  width: 78px;
-  height: 78px;
-  background: linear-gradient(135deg, rgba(182, 245, 106, 0.78), rgba(40, 70, 52, 0.3));
-  transform: rotate(135deg) translate(52px, -15px);
 }
 
 .prototype-card h3 {
